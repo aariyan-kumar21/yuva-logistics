@@ -1,0 +1,5 @@
+Model,CV_RMSE_Mean,CV_RMSE_Std,Test_RMSE,Test_MAE,Test_MAPE_Pct,Test_R2
+Ridge Linear Regression,0.3647,0.007,0.3804,0.3056,9.19,0.942
+Decision Tree (Baseline),0.4264,0.0144,0.4289,0.3415,10.06,0.9262
+Random Forest (Baseline),0.367,0.0086,0.3522,0.2859,8.25,0.9502
+Random Forest (Tuned GridSearchCV),0.3635,0.0092,0.3469,0.2804,8.15,0.9517

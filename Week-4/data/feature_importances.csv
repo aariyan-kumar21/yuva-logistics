@@ -1,0 +1,13 @@
+Feature,Importance_Pct
+Shipping_Mode_Standard Class,61.46
+Shipping_Mode_Second Class,16.73
+Distance_km,11.48
+Shipping_Mode_Same Day,3.11
+Disruption_Index,3.08
+Is_Peak_Season,1.94
+Warehouse_Processing_Hours,0.96
+Hub_Utilization_Pct,0.69
+Package_Weight_kg,0.31
+Order_Item_Quantity,0.18
+Warehouse_Region_North,0.03
+Warehouse_Region_South,0.03
